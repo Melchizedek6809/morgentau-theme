@@ -26,12 +26,12 @@
 (let ((class '((class color) (min-colors 96)))
       ;; Tango palette colors.
       (butter-1 "#e5c07b") (butter-2 "#e5c07b") (butter-3 "#e5c07b")
-      (choc-1 "#f9995e") (choc-2 "#c17d11") (choc-3 "#8f5902")
+      (choc-2 "#c17d11") (choc-3 "#8f5902")
       (cham-1 "#98c379") (cham-2 "#98c379") (cham-3 "#98c379")
       (blue-1 "#61afef") (blue-2 "#3465a4") (blue-3 "#204a87")
-      (plum-1 "#fa988f") (plum-2 "#75507b") (plum-3 "#5c3566")
-      (red-1 "#e06c75")  (red-2 "#cc0000")  (red-3 "#a40000") (red-4 "#440905")
-      (alum-1 "#bbc2cf") (alum-2 "#abb2bf") (alum-3 "#babdb6")
+      (plum-1 "#fa988f") (plum-3 "#5c3566")
+      (red-1 "#e06c75")  (red-3 "#a40000") (red-4 "#440905")
+      (alum-1 "#bbc2cf") (alum-3 "#babdb6")
       (alum-4 "#888a85") (alum-5 "#555753") (alum-6 "#2e3436")
       ;; Not in Tango palette; used for better contrast.
       (butter-0 "#f5d080") (cham-0 "#9ce389") (blue-0 "#61afef") (plum-0 "#e9b2e3")
