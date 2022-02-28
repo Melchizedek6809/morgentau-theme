@@ -7,7 +7,7 @@
 ;; Created: 2022
 ;; Version: 1.0
 ;; Keywords: theme, dark, faces
-;; License: GPL-3+
+;; License: GPL-3.0-or-later
 ;; Filename: morgentau-theme.el
 ;; Package-Requires: ((emacs "24"))
 
